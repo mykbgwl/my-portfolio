@@ -27,31 +27,28 @@ Installation
 
 To run this project locally, follow these steps:
 
-    Clone the repository:
+Clone the repository:
 
     bash
-
-git clone [https://github.com/mykbgwl/my-portfolio.git](https://github.com/mykbgwl/my-portfolio.git)
+    git clone [https://github.com/mykbgwl/my-portfolio.git](https://github.com/mykbgwl/my-portfolio.git)
 
 Navigate to the project directory:
 
-bash
-
-cd my-portfolio
+    bash
+    cd my-portfolio
 
 Install dependencies:
 
-bash
-
+    bash
     npm install
 
 Usage
 
-    Customize the content:
-        Edit the information in the src/data/portfolioData.js file to include your details, projects, and skills.
-        Replace or add images in the public/images directory with your own.
+Customize the content:
+    Edit the information in the src/data/portfolioData.js file to include your details, projects, and skills.
+    Replace or add images in the public/images directory with your own.
 
-    Run the development server:
+Run the development server:
 
     bash
 
@@ -61,11 +58,10 @@ This will start the development server, and you can view your portfolio at http:
 
 Build for production:
 
-bash
-
+    bash
     npm run build
 
-    This will create an optimized production build in the build directory.
+This will create an optimized production build in the build directory.
 
 Technologies Used
 
