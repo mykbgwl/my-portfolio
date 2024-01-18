@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 
     bash
-    git clone [https://github.com/mykbgwl/my-portfolio.git](https://github.com/mykbgwl/my-portfolio.git)
+    git clone https://github.com/mykbgwl/my-portfolio.git
 
 Navigate to the project directory:
 
