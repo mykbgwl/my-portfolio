@@ -15,9 +15,9 @@ import {
     figma,
     jkpaper,
     capgemini,
-    carrent,
-    jobit,
-    tripguide,
+    crypto,
+    dicegame,
+    firebasecontact,
     threejs,
   } from "../assets";
   
@@ -168,9 +168,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Crypto Web App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed a comprehensive web application with a focus on cryptocurrency-related services. Implemented a robust authentication system, enabling secure user registration and login processes.",
       tags: [
         {
           name: "react",
@@ -185,50 +185,46 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: crypto,
+      source_code_link: "https://github.com/mykbgwl/Crypto-Web-Design",
     },
     {
-      name: "Job IT",
+      name: "Dice Game",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "I developed a dynamic and interactive web application using React.js. This project demonstrates my proficiency in front-end web development and my ability to create an engaging user experience. The game is designed with a simple set of rules",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "styled-components",
           color: "green-text-gradient",
         },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: dicegame,
+      source_code_link: "https://github.com/mykbgwl/Dice-Game",
     },
     {
-      name: "Trip Guide",
+      name: "Firebase Contact App",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Revolutionize your contact management with our React.js and Firebase-powered application. Experience seamless real-time updates, sleek interface, and secure data storage. Effortlessly organize and sync contacts across devices. Modern, efficient, and user-friendly -it's contact management reimagined.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "firebase",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: firebasecontact,
+      source_code_link: "https://github.com/mykbgwl/Firebase-Contact-App",
     },
   ];
   

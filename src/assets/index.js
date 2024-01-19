@@ -24,9 +24,9 @@ import threejs from "./tech/threejs.png";
 import jkpaper from "./company/jkpaper.png";
 import capgemini from "./company/capgemini.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import crypto from "./crypto.png";
+import dicegame from "./dicegame.png";
+import firebasecontact from "./firebasecontact.png";
 
 export {
   logo,
@@ -52,7 +52,7 @@ export {
   threejs,
   jkpaper,
   capgemini,
-  carrent,
-  jobit,
-  tripguide,
+  crypto,
+  dicegame,
+  firebasecontact,
 };
