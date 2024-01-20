@@ -14,7 +14,7 @@ Welcome to the repository for my personal portfolio website! This project is bui
 
 ## Demo
 
-You can check out the live demo of the portfolio [here](#insert-live-demo-link).
+You can check out the live demo of the portfolio [here](https://mayankbangwal.netlify.app/).
 
 ## Features
 
